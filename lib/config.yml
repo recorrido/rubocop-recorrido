@@ -43,6 +43,9 @@ Style/EmptyCaseCondition:
 Style/EmptyMethod:
   EnforcedStyle: expanded
 
+Style/GuardClause:
+  Enabled: false
+
 Sorbet/EnforceSignatures:
   Enabled: true
 
